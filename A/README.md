@@ -1,2 +1,0 @@
-# infintinode-mod
-Modding project
